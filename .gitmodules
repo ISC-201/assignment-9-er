@@ -1,3 +1,6 @@
 [submodule "Breakout"]
 	path = Breakout
 	url = https://github.com/aceaguirrec/Breakout.git
+[submodule "Breakout-1"]
+	path = Breakout-1
+	url = https://github.com/aceaguirrec/Breakout-1
